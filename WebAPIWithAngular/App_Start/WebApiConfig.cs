@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web.Http;
+﻿using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace WebAPIWithAngular
 {
@@ -12,6 +10,8 @@ namespace WebAPIWithAngular
             // Web API configuration and services
 
             // Web API routes
+
+            config.EnableCors();
             config.MapHttpAttributeRoutes();
 
             config.Routes.MapHttpRoute(
@@ -19,6 +19,9 @@ namespace WebAPIWithAngular
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
+
+           // var cors = new EnableCorsAttribute("http://localhost:4200", "*", "*");
+
         }
     }
 }
