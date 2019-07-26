@@ -224,10 +224,10 @@ C:\Users\cadekeye\source\repos\WebAPIWithAngular\WebAPIWithAngular\bin\System.We
 C:\Users\cadekeye\source\repos\WebAPIWithAngular\WebAPIWithAngular\bin\System.Diagnostics.DiagnosticSource.xml
 C:\Users\cadekeye\source\repos\WebAPIWithAngular\WebAPIWithAngular\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 C:\Users\cadekeye\source\repos\WebAPIWithAngular\WebAPIWithAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\cadekeye\source\repos\WebAPIWithAngular\WebAPIWithAngular\obj\Debug\WebAPIWithAngular.csprojAssemblyReference.cache
 C:\Users\cadekeye\source\repos\WebAPIWithAngular\WebAPIWithAngular\obj\Debug\WebAPIWithAngular.Migrations.initial.resources
 C:\Users\cadekeye\source\repos\WebAPIWithAngular\WebAPIWithAngular\obj\Debug\WebAPIWithAngular.csproj.GenerateResource.cache
 C:\Users\cadekeye\source\repos\WebAPIWithAngular\WebAPIWithAngular\obj\Debug\WebAPIWithAngular.csproj.CoreCompileInputs.cache
 C:\Users\cadekeye\source\repos\WebAPIWithAngular\WebAPIWithAngular\obj\Debug\WebAPIWithAngular.csproj.CopyComplete
 C:\Users\cadekeye\source\repos\WebAPIWithAngular\WebAPIWithAngular\obj\Debug\WebAPIWithAngular.dll
 C:\Users\cadekeye\source\repos\WebAPIWithAngular\WebAPIWithAngular\obj\Debug\WebAPIWithAngular.pdb
+C:\Users\cadekeye\source\repos\WebAPIWithAngular\WebAPIWithAngular\obj\Debug\WebAPIWithAngular.csprojAssemblyReference.cache

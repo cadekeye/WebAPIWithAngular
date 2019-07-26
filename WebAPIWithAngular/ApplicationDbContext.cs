@@ -12,7 +12,7 @@ namespace WebAPIWithAngular
     {
         public ApplicationDbContext() : base("DBConn")
         {
-            Database.SetInitializer<ApplicationDbContext>(new ApplicationDbInitializer());
+           // Database.SetInitializer<ApplicationDbContext>(new ApplicationDbInitializer());
         }
         public static ApplicationDbContext Create()
         {
